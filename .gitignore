@@ -6,12 +6,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# 生成されるデータ（重要：これらはアップロードしない）
+# 生成されるデータと個人ナレッジは、安全のためデフォルトで無視します。
+# 管理者がサンプルナレッジを更新する際は、強制追加コマンドを使用してください。
 /vector_stores/
 /chat_histories/
-
-# ナレッジファイル（重要：個人情報や機密情報を含まないように！）
-# サンプル以外のファイルはここに追加してアップロードを避ける
-/knowledge_files/*
-!/knowledge_files/AIアシスタントの仕組み/
-!/knowledge_files/社内規定/
+/knowledge_files/
