@@ -32,3 +32,7 @@ OllamaとStreamlitを使用してローカルPCで動作する、チャット形
 1. knowledge_files フォルダ内に、プロジェクトごとのフォルダを作成します。
 2. 作成したフォルダ内に、情報源となるファイル（.pdf, .docx, .txt, .xlsx）を入れます。
 3. アプリケーションを起動し、サイドバーの「ナレッジの同期」ボタンを押します。
+
+## 詳しくは
+Notionに追加していきます。
+<https://deluxe-vessel-b94.notion.site/RAG-22c2a9d5a2dd80ad9deffe958647ecfa>
