@@ -13,9 +13,6 @@ OllamaとStreamlitを使用してローカルPCで動作する、チャット形
 
 ## セットアップ手順
 1. このリポジトリをクローンまたはダウンロードします。
-   ```bash
-   git clone [リポジトリのURL]
-   cd local-rag-app
 2. 必要なPythonライブラリをインストールします。
    ```bash
    pip install -r requirements.txt
