@@ -1,0 +1,25 @@
+# requirements.txt
+
+# Webアプリケーションフレームワーク
+streamlit
+
+# PDFファイル読み込み
+pypdf
+
+# Word(.docx)ファイル読み込み
+python-docx
+
+# Excel(.xlsx)ファイル読み込み
+openpyxl
+pandas
+
+# LangChain関連
+langchain
+langchain-community
+langchain-chroma
+
+# キーワード検索（BM25）
+rank-bm25
+
+# データベース操作の互換性向上（任意だが推奨）
+pysqlite3-binary
