@@ -20,6 +20,3 @@ langchain-chroma
 
 # キーワード検索（BM25）
 rank-bm25
-
-# データベース操作の互換性向上（任意だが推奨）
-pysqlite3-binary
